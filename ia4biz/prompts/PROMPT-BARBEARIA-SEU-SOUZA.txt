@@ -1,0 +1,108 @@
+PROMPT COMPLETO PARA GERAR LANDING PAGE DA BARBEARIA SEU SOUZA
+================================================================
+
+Copie e cole este prompt inteiro no gerador:
+
+---
+
+Crie uma landing page profissional e sofisticada para a BARBEARIA SEU SOUZA, uma barbearia premium com modelo de assinatura (clube de membros).
+
+IDENTIDADE VISUAL:
+- Nome: Barbearia Seu Souza
+- Logo: Monograma "BS" elegante
+- Cores: Preto (#0a0a0a), Branco (#ffffff) e Dourado/Âmbar (#d4af37)
+- Estilo: Premium, elegante, masculino, sofisticado
+- Tipografia: Serifada moderna para títulos, sans-serif para textos
+
+ESTRUTURA E SEÇÕES:
+
+1. HEADER (fixo no topo):
+   - Logo "Barbearia Seu Souza" à esquerda
+   - Menu: Início | Serviços | Clube Seu Souza | Sobre | Contato
+   - Botão CTA dourado: "AGENDAR AGORA"
+
+2. HERO SECTION (impactante):
+   - Fundo: imagem de barbearia premium em preto e branco com overlay escuro
+   - Título grande: "Estilo, Tradição e Exclusividade"
+   - Subtítulo: "Original como tem que ser"
+   - Texto: "Uma experiência única de cuidado masculino"
+   - Dois botões: "ASSINE O CLUBE" (dourado) e "CONHEÇA OS SERVIÇOS" (outline branco)
+
+3. SEÇÃO CLUBE SEU SOUZA (destaque especial):
+   - Badge dourado: "CLUBE DE ASSINATURA"
+   - Título: "Quanto custa a assinatura do Clube do Seu Souza?"
+   - 3 planos em cards elegantes com bordas douradas:
+     * BÁSICO: R$ 89,90/mês - 2 cortes mensais + 10% desconto produtos
+     * PREMIUM: R$ 149,90/mês - Cortes e barbas ilimitados + 15% desconto produtos
+     * VIP: R$ 249,90/mês - Todos serviços ilimitados + atendimento prioritário + 20% desconto
+   - Cada card com botão "ASSINAR AGORA"
+
+4. SERVIÇOS (grid moderno):
+   - 6 cards de serviços com ícones minimalistas:
+     * Corte Masculino - Cortes clássicos e modernos com acabamento perfeito
+     * Barba & Bigode - Design e modelagem profissional
+     * Design de Sobrancelha - Simetria e definição
+     * Pezinho & Acabamento - Detalhes que fazem diferença
+     * Relaxamento - Tratamento capilar relaxante
+     * Tratamento Capilar - Hidratação e revitalização
+
+5. DIFERENCIAIS (4 colunas):
+   - Ícone + título para cada:
+     * Profissionais Especializados - Barbeiros experientes e certificados
+     * Ambiente Premium - Conforto e sofisticação
+     * Produtos de Qualidade - Marcas premium internacionais
+     * Clube de Vantagens - Economia e benefícios exclusivos
+
+6. GALERIA DE TRABALHOS:
+   - Grid 3x2 com 6 placeholders de fotos de cortes/barbas
+   - Efeito hover com zoom suave
+   - Título: "Nossos Trabalhos"
+
+7. DEPOIMENTOS:
+   - 3 cards de depoimentos:
+     * "Melhor barbearia que já frequentei. O clube vale muito a pena!" - Carlos Silva, ★★★★★
+     * "Ambiente top e profissionais de primeira. Recomendo!" - Rafael Santos, ★★★★★
+     * "Assinei o clube VIP e não me arrependo. Qualidade impecável!" - Bruno Costa, ★★★★★
+
+8. LOCALIZAÇÃO E CONTATO:
+   - Endereço: Rua Example, 123 - São Paulo, SP
+   - Telefone: (11) 99999-9999
+   - WhatsApp: (11) 99999-9999
+   - Horários: Seg-Sex: 9h-20h | Sáb: 9h-18h | Dom: Fechado
+   - Formulário de contato: nome, telefone, email, mensagem
+
+9. FOOTER (elegante):
+   - Logo centralizado "BS"
+   - Links: Início | Serviços | Clube | Sobre | Contato
+   - Redes sociais: Instagram, Facebook, WhatsApp (ícones dourados)
+   - Copyright © 2025 Barbearia Seu Souza - Todos os direitos reservados
+
+ELEMENTOS DE DESIGN:
+- Animações suaves de scroll (fade-in ao aparecer)
+- Efeitos hover em botões (elevação + brilho)
+- Gradientes sutis preto-dourado nos cards
+- Linhas divisórias douradas finas entre seções
+- Ícones minimalistas e elegantes (Font Awesome ou similar)
+- Espaçamento generoso (padding e margin adequados)
+- Tipografia hierárquica clara (títulos grandes, texto legível)
+- Responsivo para mobile (menu hamburger, cards empilhados)
+- Sombras suaves nos cards para profundidade
+
+FUNCIONALIDADES:
+- Botão WhatsApp flutuante fixo no canto inferior direito
+- Menu hamburger no mobile (animado)
+- Smooth scroll entre seções ao clicar no menu
+- Cards com hover effects (elevação e borda dourada)
+- Formulário funcional (validação básica)
+- Links de redes sociais funcionais
+
+PALETA DE CORES ESPECÍFICA:
+- Fundo principal: #0a0a0a (preto profundo)
+- Fundo secundário: #1a1a1a (cinza escuro)
+- Texto principal: #ffffff (branco)
+- Texto secundário: #cccccc (cinza claro)
+- Destaque/CTA: #d4af37 (dourado)
+- Hover dourado: #e5c158 (dourado claro)
+- Bordas: #2a2a2a (cinza muito escuro)
+
+O design deve transmitir SOFISTICAÇÃO, MASCULINIDADE e EXCLUSIVIDADE, com foco especial no modelo de ASSINATURA/CLUBE que é o diferencial do negócio.
