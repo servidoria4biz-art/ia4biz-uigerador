@@ -33,10 +33,21 @@
   border-bottom: 1px solid rgba(20, 184, 212, 0.2);
 }
 
-.brainCircuit {
-  font-size: 48px;
-  margin-bottom: 8px;
-  filter: drop-shadow(0 0 20px rgba(20, 184, 212, 0.6));
+.logoImage {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 12px;
+  filter: drop-shadow(0 0 20px rgba(20, 184, 212, 0.5));
+  animation: pulse 3s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    filter: drop-shadow(0 0 15px rgba(20, 184, 212, 0.4));
+  }
+  50% {
+    filter: drop-shadow(0 0 25px rgba(20, 184, 212, 0.7));
+  }
 }
 
 .title {

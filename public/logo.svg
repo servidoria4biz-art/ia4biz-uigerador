@@ -1,0 +1,29 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brain-Circuit Logo IA4BIZ -->
+  <defs>
+    <linearGradient id="brainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#14B8D4;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#22C55E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Circuit nodes -->
+  <circle cx="24" cy="14" r="3" fill="url(#brainGradient)" opacity="0.8"/>
+  <circle cx="14" cy="24" r="3" fill="url(#brainGradient)" opacity="0.8"/>
+  <circle cx="34" cy="24" r="3" fill="url(#brainGradient)" opacity="0.8"/>
+  <circle cx="24" cy="34" r="3" fill="url(#brainGradient)" opacity="0.8"/>
+
+  <!-- Circuit connections -->
+  <path d="M24 14 L14 24" stroke="url(#brainGradient)" stroke-width="2" opacity="0.6"/>
+  <path d="M24 14 L34 24" stroke="url(#brainGradient)" stroke-width="2" opacity="0.6"/>
+  <path d="M14 24 L24 34" stroke="url(#brainGradient)" stroke-width="2" opacity="0.6"/>
+  <path d="M34 24 L24 34" stroke="url(#brainGradient)" stroke-width="2" opacity="0.6"/>
+
+  <!-- Central brain node -->
+  <circle cx="24" cy="24" r="8" fill="none" stroke="url(#brainGradient)" stroke-width="2.5"/>
+  <circle cx="24" cy="24" r="4" fill="url(#brainGradient)"/>
+
+  <!-- Outer circuit ring -->
+  <circle cx="24" cy="24" r="18" fill="none" stroke="url(#brainGradient)" stroke-width="1.5" opacity="0.4" stroke-dasharray="4 3"/>
+</svg>

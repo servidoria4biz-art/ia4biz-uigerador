@@ -56,7 +56,7 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.leftPanel}>
         <div className={styles.logo}>
-          <div className={styles.brainCircuit}>⚡</div>
+          <img src="/logo.svg" alt="IA4BIZ Logo" className={styles.logoImage} />
           <h1 className={styles.title}>IA4BIZ</h1>
           <span className={styles.tagline}>IA for business</span>
         </div>
